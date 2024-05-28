@@ -1,0 +1,19 @@
+.box{
+    border: 2px solid black;
+    border-radius:  1px;
+    box-shadow: inset;
+    margin-left:35%;
+    margin-right: 35%;
+    margin-top: 1%;
+    padding: 10px;
+}
+.id9{
+    margin-left: 35%;
+    margin-top: 10%;
+    border: 2px solid black;
+    margin-right: 25%;
+    padding-left: 10%;
+}
+.abhi{
+    margin-top: 10%;
+}
